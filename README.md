@@ -1,4 +1,5 @@
 # guimageprocess
+# not every function is executed 
 ![image](https://user-images.githubusercontent.com/46086662/158793041-5456f30a-1b87-4051-b5d2-4ddae8231795.png)
 # Histogram
 ![histogram](https://user-images.githubusercontent.com/46086662/158792906-71ab3f45-4e69-463c-88aa-4f42b5af840d.png)
